@@ -57,8 +57,8 @@ This project allows users to:
 ## Clone Repository
 
 ```bash
-git clone <your-repository-url>
-cd school-management
+git clone https://github.com/SyedJunaidAli1/assignment-for-educase
+cd assignment-for-educase
 ```
 
 ---
