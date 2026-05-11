@@ -211,6 +211,7 @@ Use Postman to test the APIs.
 The API can be deployed on:
 
 - Render
+- https://assignment-for-educase.onrender.com
 
 ---
 
