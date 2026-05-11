@@ -6,6 +6,10 @@ const app = express();
 app.use(cors());
 app.use(express.json());
 
+import schoolRoutes from "./routes/schoolRoutes.js";
+
+app.use("/", schoolRoutes);
+
 app.get("/", (req, res) => {
   res.json({
     success: true,
